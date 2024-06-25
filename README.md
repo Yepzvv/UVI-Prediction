@@ -6,8 +6,7 @@ This project introduces a Transformer-based neural network model TransNN designe
 TransNN utilizes the Transformer architecture to capture temporal dependencies and complex patterns in UV radiation data, enhancing the accuracy of UV index predictions.
 
 ## Model Architecture
-
-![figure1](https://github.com/Yepzvv/UVI-Prediction/assets/171041111/adc9456b-e76e-424d-900c-b7a8338b6159)
+![figure2](https://github.com/Yepzvv/UVI-Prediction/assets/171041111/126de216-e152-414e-bebf-d56751a9ac5b)
 
 ## Getting Started
 
