@@ -7,7 +7,6 @@ TransNN utilizes the Transformer architecture to capture temporal dependencies a
 
 ## Model Architecture
 
-Below is a diagram illustrating the architecture of our Transformer-based model for UV index prediction.
 ![figure1](https://github.com/Yepzvv/UVI-Prediction/assets/171041111/adc9456b-e76e-424d-900c-b7a8338b6159)
 
 ## Getting Started
